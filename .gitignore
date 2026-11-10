@@ -1,0 +1,13 @@
+
+# Sensitive configuration files
+.env
+.env.*
+db_config.php
+
+# Logs
+*.log
+error_log
+
+# Operating system files
+.DS_Store
+Thumbs.db
